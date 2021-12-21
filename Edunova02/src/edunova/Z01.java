@@ -14,7 +14,7 @@ public class Z01 {
 				JOptionPane.showInputDialog("Unesi a")
 				);
 		int b = Integer.parseInt(
-				JOptionPane.showInputDialog("Unesi a")
+				JOptionPane.showInputDialog("Unesi b")
 				);
 		
 		System.out.println(((a+b)%2)==0 ? "Osijek" : "Zagreb");

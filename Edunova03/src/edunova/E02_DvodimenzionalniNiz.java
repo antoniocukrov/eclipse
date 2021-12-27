@@ -22,6 +22,9 @@ public class E02_DvodimenzionalniNiz {
 				{1,2,3},
 				{3,2,1}
 		};
+		System.out.println(Arrays.toString(dn[0]));
+		System.out.println(Arrays.toString(dn[1]));
+		System.out.println(Arrays.toString(dn[2]));
 		
 	}
 }

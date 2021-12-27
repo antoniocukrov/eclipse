@@ -26,8 +26,8 @@ public class E02_Varijabla {
 		
 		System.out.println(rezultat);
 		
-		int t;
 		
+		int t;	
 	
 		t=1;
 		

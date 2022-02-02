@@ -5,6 +5,10 @@ public class Klasifikacija {
 	private Integer sifra;
 	private String naziv;
 	
+	public Klasifikacija(Integer sifra, String naziv) {
+		this.sifra = sifra;
+		this.naziv = naziv;
+	}
 	public Integer getSifra() {
 		return sifra;
 	}
